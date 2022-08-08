@@ -1,24 +1,29 @@
-# README
+Charger Ape
+===========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+-----------------
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to acess (http://localhost:3000/invoices).
 
-* System dependencies
+> ## Etiam pulvinar sollicitudin gravida
+>
+> Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Egestas purus viverra accumsan in nisl nisi scelerisque eu. 
+>
+> In pellentesque massa placerat duis. Morbi quis commodo odio aenean sed adipiscing *gravida*.
 
-* Configuration
+ In pellentesque massa placerat duis. Morbi quis commodo odio aenean sed adipiscing **gravida**.
 
-* Database creation
+ ### razy good Software
+ * Rapid development
+ + Tested
+ - 24/7 support
 
-* Database initialization
+ ### Reason to choose us
+ 1. Price
+ 2. Precision
+ 3. Performance
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ This is what ruby code would look like "puts 'Hello World'"
